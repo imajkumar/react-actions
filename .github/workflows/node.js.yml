@@ -25,6 +25,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i  
-    - run: npm run build
-    - rub: mv /var/www/webchat
-   
+    - run: npm run build  
