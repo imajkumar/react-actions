@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Ayra System New Build</p>
+        <p>Ayra System New Build New</p>
       </header>
     </div>
   );
