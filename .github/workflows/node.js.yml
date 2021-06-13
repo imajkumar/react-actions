@@ -26,6 +26,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - run: npm i  
     - run: npm run build
-    - run: mv /home/ayra/Documents/deployRect/ReactApp/react-actions/react-actions/build /var/www/webchat
     
    
